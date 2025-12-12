@@ -1,0 +1,1 @@
+A thorough exploratory analysis, with two different predictive ensembles. Moreover, Walmart stores were clustered according to their size and sales to use a more targetted stocking, and marketing approach. 
